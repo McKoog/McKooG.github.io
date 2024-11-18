@@ -1,6 +1,6 @@
 {
-    "name": "enchanment_game",
-    "short_name": "enchanment_game",
+    "name": "doc_test",
+    "short_name": "doc_test",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
