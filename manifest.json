@@ -1,11 +1,11 @@
 {
-    "name": "mac_doc",
-    "short_name": "mac_doc",
+    "name": "mac_dock_v2",
+    "short_name": "mac_dock_v2",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Imitation of MAC dock panel",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
