@@ -1,11 +1,11 @@
 {
-    "name": "mac_dock_v2",
-    "short_name": "mac_dock_v2",
+    "name": "enchanment_game",
+    "short_name": "enchanment_game",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Imitation of MAC dock panel",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
